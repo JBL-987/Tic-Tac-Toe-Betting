@@ -60,6 +60,5 @@ You can place this in a `README.md` file at the root of your project directory.T
 
 You can place this in a `README.md` file at the root of your project directory.
 
-# Install frontend dependencies
-cd frontend
-npm install
+# Full Documentation URL:
+https://docs-stacks.vercel.app/docs/day1-tic-tac-toe/contracts-tic-tac-toe
