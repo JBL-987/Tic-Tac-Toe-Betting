@@ -29,7 +29,13 @@ A decentralized Tic-Tac-Toe game built on the Stacks blockchain where players ca
 
 ### Local Development
 
-1. Install dependencies:
+1. Change directory:
+
+```bash    
+cd frontend
+```
+
+2. Install dependencies:
 
 ```bash
 # Install contract testing dependencies    
